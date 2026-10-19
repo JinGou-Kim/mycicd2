@@ -1,0 +1,21 @@
+//라우팅을 위한 모듈 - 리액트에서 해당 경로를 라우팅을 해주기 위한 모듈 
+yarn add react-router-dom
+yarn add --dev @types/react-router-dom
+
+
+//react-pageflip - 다이어리에서 사용할 외부 모듈
+yarn add react-pageflip
+
+//react-slick - Home에 배너에 사용할 외부 모듈 
+// https://react-slick.neostack.com/docs/get-started
+yarn add react-slick
+yarn add slick-carousel
+yarn add --dev @types/react-slick
+
+
+//axios 
+yarn add axios
+
+//web cam
+yarn add react-webcam                                                                                                    
+yarn add @types/react-webcam 

@@ -1,0 +1,25 @@
+# Gradle
+.gradle/
+**/build/
+
+# Eclipse / IDE
+**/bin/
+**/.settings/
+**/.classpath
+**/.project
+.idea/
+.vscode/
+
+# Local secrets
+.env
+.env.*
+**/application-local.properties
+**/application-local.yml
+**/application-local.yaml
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
